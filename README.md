@@ -17,7 +17,8 @@
 
 ### 📫 How to reach me:
 - **Email:** solaimuthudeepan@gmail.com
-- **LinkedIn:** [Deepan S](https://www.linkedin.com/in/deepan484/)  
+- **LinkedIn:** [Deepan S](https://www.linkedin.com/in/deepan484/)
+- **LeetCode:** [deepan484](https://leetcode.com/u/deepan484/)
 
 ### 😄 Pronouns:
 - He/Him  
